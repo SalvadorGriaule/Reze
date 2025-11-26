@@ -7,7 +7,7 @@
 
     <title>{{ $title }}</title>
     <!-- Styles / Scripts -->
-    @vite(['resources/css/app.css', 'resources/js/base.js'])
+    @vite(['resources/css/app.css'])
 </head>
 
 <body>
