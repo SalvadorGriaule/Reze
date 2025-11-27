@@ -57,7 +57,7 @@ php artisan serve --port=8047
 
 ```bash
 sudo docker build -t app:1.0 .
-sudo docker run -p 8047:8047 app:1.0
+sudo docker run -p 8047:80 app:1.0
 ```
 
 ---
